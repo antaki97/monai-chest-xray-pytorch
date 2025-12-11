@@ -19,8 +19,10 @@ This project includes a set of pre-trained and custom-trained models implemented
 
 * Visualization tools: Built-in methods to visualize model predictions and output. 
 
-`git clone [https://github.com/your-username/monai-pytorch-models.git](https://github.com/antaki97/moani-chest-xray-pytorch.git)
+`git clone [https://github.com/your-username/monai-pytorch-models.git](https://github.com/antaki97/moani-chest-xray-pytorch.git) 
+
 cd monai-pytorch-models
+
 pip install -r requirements.txt`
 
 **Requirements**
