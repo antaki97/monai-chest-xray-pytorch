@@ -1,4 +1,4 @@
-MONAI PyTorch Models
+**MONAI PyTorch Models**
 
 This repository contains a collection of PyTorch models built using MONAI
 , a deep learning framework for medical imaging. These models can be used for various medical imaging tasks, such as segmentation, classification, and more, depending on the specific architecture.
