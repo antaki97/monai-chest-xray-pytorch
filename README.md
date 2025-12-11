@@ -7,7 +7,7 @@ This repository contains a collection of PyTorch models built using MONAI
 
 This project includes a set of pre-trained and custom-trained models implemented with MONAI, designed to address various challenges in medical imaging. The models are trained on popular medical datasets and demonstrate the ease of integrating MONAI with PyTorch to create powerful models for medical image analysis.
 
-Key Features
+**Key Features**
 
 MONAI-based architectures: Utilizes MONAI's powerful features for building and training models for medical imaging tasks.
 
