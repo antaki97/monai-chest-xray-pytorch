@@ -1,0 +1,5 @@
+kagglehub/data/
+huggingface/
+torch/hub/
+wandb/
+__pycache__/
